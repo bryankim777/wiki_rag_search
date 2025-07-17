@@ -4,7 +4,7 @@ import streamlit as st
 from openai import OpenAI
 from elasticsearch import Elasticsearch
 
-client = OpenAI(api_key=st.secrets["api_key"])
+client = OpenAI(api_key=st.secrets["api_key"]💕❤️❤️❤️❤️❤️❤️❤️❤️)
 
 # https://www.elastic.co/search-labs/tutorials/install-elasticsearch/elastic-cloud#finding-your-cloud-id
 ELASTIC_CLOUD_ID = st.secrets["elastic_cloud_key"]
